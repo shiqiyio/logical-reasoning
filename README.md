@@ -22,7 +22,7 @@
 
 
 
-## lmdepoly报错`（Python）asyncio使用异常：This event loop is already running解决方式`
+## lmdepoly报错（Python）asyncio使用异常：`This event loop is already running`解决方式
 * 问题解决
 `引入nest_asyncio模块
 pip install nest_asyncio -i https://pypi.douban.com/simple`
