@@ -10,7 +10,7 @@ def process_json(json_file_path, answer_list, output_file_path):
     output_data = []
 
     # 初始化 round_id
-    round_id = 0
+    round_id = -1
     current_instruction = ""
 
     # 处理每一项数据
