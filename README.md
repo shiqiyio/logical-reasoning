@@ -18,7 +18,6 @@
  'questions': [{'answer': 'A'}, {'answer': 'D'}, ...], # 顺序与子问题对应 
 }`
 
-* 最后提交发现id序号不对，从1开始的，故用[脚本5](https://github.com/shiqiyio/logical-reasoning/blob/main/id-1.py)
 
 
 
